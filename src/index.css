@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif; /* Global font */
+  background-color: #f4f4f4; /* Global background */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 10px 0;
+}
