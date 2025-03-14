@@ -35,3 +35,17 @@ To get started with this app, follow these steps:
    ```bash
    git clone https://github.com/angeloevans/ProManage.git
 
+Navigate to the project directory:
+
+bash
+Αντιγραφή
+Επεξεργασία
+cd your-repository-name
+Install the dependencies:
+
+bash
+Αντιγραφή
+Επεξεργασία
+npm install
+Run the development server:
+
