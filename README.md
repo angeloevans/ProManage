@@ -31,29 +31,13 @@ This **React Web App** is a role-based dashboard system that provides access to 
 To get started with this app, follow these steps:
 
 1. Clone the repository:
+  git clone https://github.com/angeloevans/ProManage.git
 
-   ```bash
-   git clone https://github.com/angeloevans/ProManage.git
+2. Navigate to the project directory: 
+  cd path/to/your/project
 
-Navigate to the project directory:
-
-bash
-Αντιγραφή
-Επεξεργασία
-cd your-repository-name
-Install the dependencies:
-
-bash
-Αντιγραφή
-Επεξεργασία
-npm install
-Run the development server:
-
-bash
-Αντιγραφή
-Επεξεργασία
-npm start
-Open the app in your browser at http://localhost:3000.
+3. Install the dependencies:
+  npm install
 
 Technologies Used
 React: A JavaScript library for building user interfaces.
@@ -65,4 +49,6 @@ Demo
 All data is loaded from local JSON files for demonstration purposes.
 The app is designed to show how the Production Management system works, allowing users to start, pause, continue, and stop production processes.
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.
+Feel free to adjust any parts as per your project’s needs. Let me know if you'd like any further adjustments! 😊
+
