@@ -49,3 +49,20 @@ bash
 npm install
 Run the development server:
 
+bash
+Αντιγραφή
+Επεξεργασία
+npm start
+Open the app in your browser at http://localhost:3000.
+
+Technologies Used
+React: A JavaScript library for building user interfaces.
+React Router: For routing and navigation between pages.
+Tailwind CSS: A utility-first CSS framework for designing modern UIs.
+React Hooks: useState, useEffect, useCallback for managing state and optimizing performance.
+LocalStorage: Used to simulate user session management.
+Demo
+All data is loaded from local JSON files for demonstration purposes.
+The app is designed to show how the Production Management system works, allowing users to start, pause, continue, and stop production processes.
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
