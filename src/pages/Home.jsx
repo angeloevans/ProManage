@@ -2,42 +2,39 @@ import React from "react";
 
 const HomePage = () => {
   return (
-    <div className="min-h-screen bg-gray-100 p-6">
-      {/* Welcome Section */}
+    <div className="min-h-screen bg-gray-100 p-6">      
       <div className="max-w-4xl mx-auto bg-white p-6 rounded-lg shadow-lg">
         <h2 className="text-3xl font-semibold text-center text-gray-800 mb-6">
-          Welcome to the <strong>Production Management System</strong>
+          Welcome to the <strong>React Web App</strong>
         </h2>
-
-        <p className="text-gray-700 text-base mb-4">
-          Η εφαρμογή παραγωγής και διαχείρισης παραγωγής προσφέρει έναν πλήρη μηχανισμό για την παρακολούθηση και τη διαχείριση των διαδικασιών παραγωγής. Συγκεκριμένα:
+        <p className="text-lg text-gray-700"> 
+          You have successfully logged in!
         </p>
 
-        <ul className="list-disc pl-6 space-y-4">
-          <li>
-            <span className="font-semibold">Πρόγραμμα Παραγωγής:</span> Στο πρόγραμμα παραγωγής, ο χρήστης έχει τη δυνατότητα να χρησιμοποιήσει φίλτρα για να επιλέξει συγκεκριμένα κριτήρια όπως:
-            <em><span className="text-slate-600"> η ημερομηνία, η γραμμή παραγωγής ή η εντολή παραγωγής. </span></em>
-             Αυτά τα φίλτρα βοηθούν στην εύκολη αναζήτηση και παρακολούθηση των διαδικασιών παραγωγής, διευκολύνοντας την εύρεση της σωστής πληροφορίας σε πραγματικό χρόνο.
-          </li>
-          <li>
-            <span className="font-semibold">Διαχείριση Παραγωγής:</span> Στην ενότητα διαχείρισης, αφού ο χρήστης επιλέξει την παραγωγή που τον ενδιαφέρει, μπορεί να μεταβεί σε μια σελίδα λεπτομερειών (<em>Details Page</em>). Εκεί, ο χρήστης μπορεί να δει αναλυτικά τις πληροφορίες της συγκεκριμένης παραγωγής και να αναλάβει ενέργειες όπως η καταγραφή της έναρξης παραγωγής, η παύση και η συνέχιση της παραγωγής, καθώς και η καταγραφή της λήξης της παραγωγής. Η δυνατότητα να παρακολουθεί και να καταγράφει τα κρίσιμα σημεία της παραγωγής εξασφαλίζει τη σωστή παρακολούθηση της διαδικασίας από την αρχή μέχρι το τέλος.
-          </li>
-          <li>
-            <span className="font-semibold">Λειτουργίες Έναρξης, Παύσης και Λήξης:</span> Στην σελίδα των λεπτομερειών της παραγωγής, ο χρήστης μπορεί να αλληλεπιδράσει με τα διάφορα στάδια της παραγωγικής διαδικασίας. Με την <strong>έναρξη παραγωγής</strong> ξεκινάει η διαδικασία, με την <strong>παύση παραγωγής</strong> γίνεται μια προσωρινή διακοπή, και με την <strong>λήξη παραγωγής</strong> καταγράφεται η ολοκλήρωση της διαδικασίας παραγωγής. Κάθε αλλαγή καταγράφεται με την ακριβή χρονική στιγμή, παρέχοντας ακριβή δεδομένα για την πορεία της παραγωγής.
-          </li>
-        </ul>
-
-        <p className="text-gray-700 text-base mt-6">
-          Η εφαρμογή προσφέρει έναν ευέλικτο και φιλικό προς τον χρήστη τρόπο για να παρακολουθήσει και να διαχειριστεί την παραγωγή, διασφαλίζοντας ότι όλοι οι χρήστες μπορούν να έχουν πλήρη έλεγχο της διαδικασίας.
-        </p>
-
-        <p className="text-gray-700 text-base mt-6">
-          Η εφαρμογή έχει υλοποιηθεί χρησιμοποιώντας το Front End framework <strong>React.js</strong> & το styling με <strong>Tailwind CSS v.3</strong>, προσφέροντας έτσι μια δυναμική και ευχάριστη εμπειρία χρήστη. Για την παρουσίαση της εφαρμογής (<em>demo</em>), τα δεδομένα αντλούνται από ένα αρχείο <strong>JSON</strong>, το οποίο περιέχει τις απαραίτητες πληροφορίες για τη διαχείριση της παραγωγής. Στην πλήρη έκδοση, τα δεδομένα επικοινωνούν μέσω του <em>Backend</em>, το οποίο είναι υλοποιημένο σε <strong>Node.js</strong>, παρέχοντας επιπλέον δυνατότητες κλιμάκωσης και επεκτασιμότητας.
-        </p>
-
-        <p className="text-gray-700 text-base mt-6">
-          Αυτή η εφαρμογή είναι ιδανική για τη διαχείριση της παραγωγής και εξασφαλίζει ακριβή και άμεση παρακολούθηση όλων των φάσεων της παραγωγικής διαδικασίας.
-        </p>
+        <div className="mt-6 text-gray-700">
+          <p>
+            This <strong>React Web App</strong> is a <strong>role-based dashboard system</strong> that provides access to different sections based on user roles.
+          </p>
+          <p className="mt-3">
+            <strong>🔑 User Authentication:</strong> The system validates users with a login form and manages sessions using <code>localStorage</code>.
+          </p>
+          <p className="mt-3">
+            <strong>📌 Role-Based Navigation:</strong> Users in different departments (e.g., <em>Production, Sales, Admin</em>) see different menu options.
+          </p>
+          <p className="mt-3">
+            <strong>📊 Auto-Generated Tables:</strong> Sales orders and production programs are displayed dynamically in structured grids.
+          </p>
+          <p className="mt-3">
+            <strong>🔍 Data Filtering:</strong> The sales orders are filtered based on <code>USERID</code>, allowing admins to see all data while normal users see their assigned tasks.
+          </p>
+          <p className="mt-3">
+            <strong>⚛️ React Hooks Used:</strong> 
+            The app uses <code>useState</code> for managing state, <code>useEffect</code> for loading data, and <code>useCallback</code> for optimizing filters.
+          </p>
+          <p className="mt-3">
+            This application ensures an efficient and user-friendly experience by dynamically rendering content based on user roles! 🚀
+          </p>
+        </div>
       </div>
     </div>
   );

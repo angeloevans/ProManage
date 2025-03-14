@@ -5,14 +5,14 @@
         "Priority": 3,
         "DocNum": 13375,
         "Status": "Completed",
-        "Desc": "Machine 3",
+        "Machine": "Machine 3",
         "ItemCode": "ITM-006",
         "ItemName": "Item Test 6",
         "Qty": 420,
-        "Ολοκληρώθηκαν": 420,
-        "Πελάτης": "Customer 2",
-        "Σχόλια": "ΘΕΣΣΑΛΟΝΙΚΗ",
-        "Παραγγελία": 100004780
+        "Completed": 420,
+        "Customer": "Customer 2",
+        "Details": "THESSALONIKI",
+        "Order": 100004780
     },
     {
         "StartDate": "21.02.2025",
@@ -20,14 +20,14 @@
         "Priority": 4,
         "DocNum": 13382,
         "Status": "Pending",
-        "Desc": "Machine 4",
+        "Machine": "Machine 4",
         "ItemCode": "ITM-007",
         "ItemName": "Item Test 7",
         "Qty": 680,
-        "Ολοκληρώθηκαν": 300,
-        "Πελάτης": "Customer 3",
-        "Σχόλια": "ΚΟΖΑΝΗ",
-        "Παραγγελία": 100004789
+        "Completed": 300,
+        "Customer": "Customer 3",
+        "Details": "KOZANI",
+        "Order": 100004789
     },
     {
         "StartDate": "22.02.2025",
@@ -35,14 +35,14 @@
         "Priority": 7,
         "DocNum": 13390,
         "Status": "Pending",
-        "Desc": "Machine 5",
+        "Machine": "Machine 5",
         "ItemCode": "ITM-008",
         "ItemName": "Item Test 8",
         "Qty": 500,
-        "Ολοκληρώθηκαν": 0,
-        "Πελάτης": "Customer 4",
-        "Σχόλια": "ΚΑΒΑΛΑ",
-        "Παραγγελία": 100004792
+        "Completed": 0,
+        "Customer": "Customer 4",
+        "Details": "KAVALA",
+        "Order": 100004792
     },
     {
         "StartDate": "22.02.2025",
@@ -50,14 +50,14 @@
         "Priority": 6,
         "DocNum": 13405,
         "Status": "Pending",
-        "Desc": "Machine 1",
+        "Machine": "Machine 1",
         "ItemCode": "ITM-009",
         "ItemName": "Item Test 9",
         "Qty": 320,
-        "Ολοκληρώθηκαν": 0,
-        "Πελάτης": "Customer 5",
-        "Σχόλια": "ΣΕΡΡΕΣ",
-        "Παραγγελία": 100004801
+        "Completed": 0,
+        "Customer": "Customer 5",
+        "Details": "SERES",
+        "Order": 100004801
     },
     {
         "StartDate": "22.02.2025",
@@ -65,14 +65,14 @@
         "Priority": 8,
         "DocNum": 13412,
         "Status": "Pending",
-        "Desc": "Machine 3",
+        "Machine": "Machine 3",
         "ItemCode": "ITM-010",
         "ItemName": "Item Test 10",
         "Qty": 250,
-        "Ολοκληρώθηκαν": 0,
-        "Πελάτης": "Customer 6",
-        "Σχόλια": "ΘΕΣΣΑΛΟΝΙΚΗ",
-        "Παραγγελία": 100004814
+        "Completed": 0,
+        "Customer": "Customer 6",
+        "Details": "THESSALONIKI",
+        "Order": 100004814
     },
     {
         "StartDate": "23.02.2025",
@@ -80,14 +80,14 @@
         "Priority": 2,
         "DocNum": 13420,
         "Status": "Pending",
-        "Desc": "Machine 5",
+        "Machine": "Machine 5",
         "ItemCode": "ITM-011",
         "ItemName": "Item Test 11",
         "Qty": 680,
-        "Ολοκληρώθηκαν": 0,
-        "Πελάτης": "Customer 7",
-        "Σχόλια": "ΞΑΝΘΗ",
-        "Παραγγελία": 100004823
+        "Completed": 0,
+        "Customer": "Customer 7",
+        "Details": "XANTHI",
+        "Order": 100004823
     },
     {
         "StartDate": "23.02.2025",
@@ -95,14 +95,14 @@
         "Priority": 5,
         "DocNum": 13428,
         "Status": "Completed",
-        "Desc": "Machine 4",
+        "Machine": "Machine 4",
         "ItemCode": "ITM-012",
         "ItemName": "Item Test 12",
         "Qty": 800,
-        "Ολοκληρώθηκαν": 800,
-        "Πελάτης": "Customer 8",
-        "Σχόλια": "ΠΥΛΗ",
-        "Παραγγελία": 100004834
+        "Completed": 800,
+        "Customer": "Customer 8",
+        "Details": "ATHENS",
+        "Order": 100004834
     },
     {
         "StartDate": "23.02.2025",
@@ -110,14 +110,14 @@
         "Priority": 9,
         "DocNum": 13435,
         "Status": "Pending",
-        "Desc": "Machine 1",
+        "Machine": "Machine 1",
         "ItemCode": "ITM-013",
         "ItemName": "Item Test 13",
         "Qty": 1250,
-        "Ολοκληρώθηκαν": 0,
-        "Πελάτης": "Customer 9",
-        "Σχόλια": "ΑΘΗΝΑ",
-        "Παραγγελία": 100004847
+        "Completed": 0,
+        "Customer": "Customer 9",
+        "Details": "ATHENS",
+        "Order": 100004847
     },
     {
         "StartDate": "23.02.2025",
@@ -125,14 +125,14 @@
         "Priority": 1,
         "DocNum": 13450,
         "Status": "Pending",
-        "Desc": "Machine 2",
+        "Machine": "Machine 2",
         "ItemCode": "ITM-014",
         "ItemName": "Item Test 14",
         "Qty": 950,
-        "Ολοκληρώθηκαν": 0,
-        "Πελάτης": "Customer 10",
-        "Σχόλια": "ΛΑΡΙΣΑ",
-        "Παραγγελία": 100004855
+        "Completed": 0,
+        "Customer": "Customer 10",
+        "Details": "LARISA",
+        "Order": 100004855
     },
     {
         "StartDate": "24.02.2025",
@@ -140,14 +140,14 @@
         "Priority": 3,
         "DocNum": 13460,
         "Status": "Completed",
-        "Desc": "Machine 6",
+        "Machine": "Machine 6",
         "ItemCode": "ITM-015",
         "ItemName": "Item Test 15",
         "Qty": 500,
-        "Ολοκληρώθηκαν": 500,
-        "Πελάτης": "Customer 11",
-        "Σχόλια": "ΠΑΤΡΑ",
-        "Παραγγελία": 100004860
+        "Completed": 500,
+        "Customer": "Customer 11",
+        "Details": "PATRA",
+        "Order": 100004860
     },
     {
         "StartDate": "24.02.2025",
@@ -155,14 +155,14 @@
         "Priority": 7,
         "DocNum": 13468,
         "Status": "Pending",
-        "Desc": "Machine 3",
+        "Machine": "Machine 3",
         "ItemCode": "ITM-016",
         "ItemName": "Item Test 16",
         "Qty": 720,
-        "Ολοκληρώθηκαν": 200,
-        "Πελάτης": "Customer 12",
-        "Σχόλια": "ΒΟΛΟΣ",
-        "Παραγγελία": 100004875
+        "Completed": 200,
+        "Customer": "Customer 12",
+        "Details": "VOLOS",
+        "Order": 100004875
     },
     {
         "StartDate": "24.02.2025",
@@ -170,14 +170,14 @@
         "Priority": 4,
         "DocNum": 13475,
         "Status": "Pending",
-        "Desc": "Machine 2",
+        "Machine": "Machine 2",
         "ItemCode": "ITM-017",
         "ItemName": "Item Test 17",
         "Qty": 620,
-        "Ολοκληρώθηκαν": 0,
-        "Πελάτης": "Customer 13",
-        "Σχόλια": "ΙΩΑΝΝΙΝΑ",
-        "Παραγγελία": 100004883
+        "Completed": 0,
+        "Customer": "Customer 13",
+        "Details": "VOLOS",
+        "Order": 100004883
     },
     {
         "StartDate": "25.02.2025",
@@ -185,14 +185,14 @@
         "Priority": 6,
         "DocNum": 13482,
         "Status": "Completed",
-        "Desc": "Machine 4",
+        "Machine": "Machine 4",
         "ItemCode": "ITM-018",
         "ItemName": "Item Test 18",
         "Qty": 900,
-        "Ολοκληρώθηκαν": 900,
-        "Πελάτης": "Customer 14",
-        "Σχόλια": "ΗΡΑΚΛΕΙΟ",
-        "Παραγγελία": 100004890
+        "Completed": 900,
+        "Customer": "Customer 14",
+        "Details": "ATHENS",
+        "Order": 100004890
     },
     {
         "StartDate": "25.02.2025",
@@ -200,14 +200,14 @@
         "Priority": 8,
         "DocNum": 13490,
         "Status": "Pending",
-        "Desc": "Machine 5",
+        "Machine": "Machine 5",
         "ItemCode": "ITM-019",
         "ItemName": "Item Test 19",
         "Qty": 460,
-        "Ολοκληρώθηκαν": 0,
-        "Πελάτης": "Customer 15",
-        "Σχόλια": "ΧΑΝΙΑ",
-        "Παραγγελία": 100004899
+        "Completed": 0,
+        "Customer": "Customer 15",
+        "Details": "PATRA",
+        "Order": 100004899
     },
     {
         "StartDate": "25.02.2025",
@@ -215,14 +215,14 @@
         "Priority": 2,
         "DocNum": 13498,
         "Status": "Pending",
-        "Desc": "Machine 6",
+        "Machine": "Machine 6",
         "ItemCode": "ITM-020",
         "ItemName": "Item Test 20",
         "Qty": 550,
-        "Ολοκληρώθηκαν": 0,
-        "Πελάτης": "Customer 16",
-        "Σχόλια": "ΤΡΙΚΑΛΑ",
-        "Παραγγελία": 100004908
+        "Completed": 0,
+        "Customer": "Customer 16",
+        "Details": "LARISA",
+        "Order": 100004908
     },
     {
         "StartDate": "26.02.2025",
@@ -230,14 +230,14 @@
         "Priority": 5,
         "DocNum": 13505,
         "Status": "Completed",
-        "Desc": "Machine 1",
+        "Machine": "Machine 1",
         "ItemCode": "ITM-021",
         "ItemName": "Item Test 21",
         "Qty": 800,
-        "Ολοκληρώθηκαν": 800,
-        "Πελάτης": "Customer 17",
-        "Σχόλια": "ΚΑΡΔΙΤΣΑ",
-        "Παραγγελία": 100004915
+        "Completed": 800,
+        "Customer": "Customer 17",
+        "Details": "KARDITSA",
+        "Order": 100004915
     },
     {
         "StartDate": "26.02.2025",
@@ -245,14 +245,14 @@
         "Priority": 9,
         "DocNum": 13512,
         "Status": "Pending",
-        "Desc": "Machine 3",
+        "Machine": "Machine 3",
         "ItemCode": "ITM-022",
         "ItemName": "Item Test 22",
         "Qty": 300,
-        "Ολοκληρώθηκαν": 0,
-        "Πελάτης": "Customer 18",
-        "Σχόλια": "ΚΕΡΚΥΡΑ",
-        "Παραγγελία": 100004923
+        "Completed": 0,
+        "Customer": "Customer 18",
+        "Details": "CORFU",
+        "Order": 100004923
     },
     {
         "StartDate": "26.02.2025",
@@ -260,14 +260,14 @@
         "Priority": 1,
         "DocNum": 13518,
         "Status": "Pending",
-        "Desc": "Machine 5",
+        "Machine": "Machine 5",
         "ItemCode": "ITM-023",
         "ItemName": "Item Test 23",
         "Qty": 1000,
-        "Ολοκληρώθηκαν": 0,
-        "Πελάτης": "Customer 19",
-        "Σχόλια": "ΑΡΤΑ",
-        "Παραγγελία": 100004931
+        "Completed": 0,
+        "Customer": "Customer 19",
+        "Details": "ARTA",
+        "Order": 100004931
     },
     {
         "StartDate": "26.02.2025",
@@ -275,13 +275,13 @@
         "Priority": 7,
         "DocNum": 13525,
         "Status": "Pending",
-        "Desc": "Machine 2",
+        "Machine": "Machine 2",
         "ItemCode": "ITM-024",
         "ItemName": "Item Test 24",
         "Qty": 750,
-        "Ολοκληρώθηκαν": 0,
-        "Πελάτης": "Customer 20",
-        "Σχόλια": "ΡΟΔΟΣ",
-        "Παραγγελία": 100004940
+        "Completed": 0,
+        "Customer": "Customer 20",
+        "Details": "CORFU",
+        "Order": 100004940
     }    
 ]

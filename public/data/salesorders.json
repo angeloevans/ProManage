@@ -1,0 +1,205 @@
+[
+    {
+      "CardCode": "0004",
+      "CardName": "Customer 4",
+      "DocNum": 100000040,
+      "DocDueDate": "2022-12-08T00:00:00.000Z",
+      "USERID": 2
+    },
+    {
+      "CardCode": "0005",
+      "CardName": "Customer 5",
+      "DocNum": 100000041,
+      "DocDueDate": "2022-12-08T00:00:00.000Z",
+      "USERID": 2
+    },
+    {
+      "CardCode": "0006",
+      "CardName": "Customer 6",
+      "DocNum": 100000043,
+      "DocDueDate": "2022-12-16T00:00:00.000Z",
+      "USERID": 1
+    },
+    {
+      "CardCode": "0006",
+      "CardName": "Customer 6",
+      "DocNum": 100000044,
+      "DocDueDate": "2022-12-23T00:00:00.000Z",
+      "USERID": 1
+    },
+    {
+      "CardCode": "0001",
+      "CardName": "Customer 1",
+      "DocNum": 100000045,
+      "DocDueDate": "2022-12-08T00:00:00.000Z",
+      "USERID": 1
+    },
+    {
+      "CardCode": "0001",
+      "CardName": "Customer 1",
+      "DocNum": 100000046,
+      "DocDueDate": "2022-12-08T00:00:00.000Z",
+      "USERID": 1
+    },
+    {
+      "CardCode": "0007",
+      "CardName": "Customer 7",
+      "DocNum": 100000047,
+      "DocDueDate": "2022-12-02T00:00:00.000Z",
+      "USERID": 1
+    },
+    {
+      "CardCode": "0008",
+      "CardName": "Customer 8",
+      "DocNum": 100000048,
+      "DocDueDate": "2022-12-06T00:00:00.000Z",
+      "USERID": 1
+    },
+    {
+      "CardCode": "0001",
+      "CardName": "Customer 1",
+      "DocNum": 100000049,
+      "DocDueDate": "2022-12-15T00:00:00.000Z",
+      "USERID": 1
+    },
+    {
+      "CardCode": "0009",
+      "CardName": "Customer 9",
+      "DocNum": 200011,
+      "DocDueDate": "2022-12-02T00:00:00.000Z",
+      "USERID": 1
+    },
+    {
+      "CardCode": "0010",
+      "CardName": "Customer 10",
+      "DocNum": 200000002,
+      "DocDueDate": "2022-12-06T00:00:00.000Z",
+      "USERID": 1
+    },
+    {
+      "CardCode": "0011",
+      "CardName": "Customer 11",
+      "DocNum": 100000051,
+      "DocDueDate": "2022-12-01T00:00:00.000Z",
+      "USERID": 2
+    },      
+    {
+      "CardCode": "0008",
+      "CardName": "Customer 8",
+      "DocNum": 100000064,
+      "DocDueDate": "2022-12-13T00:00:00.000Z",
+      "USERID": 1
+    },
+    {
+      "CardCode": "0001",
+      "CardName": "Customer 1",
+      "DocNum": 100000065,
+      "DocDueDate": "2022-12-16T00:00:00.000Z",
+      "USERID": 1
+    },
+    {
+      "CardCode": "0001",
+      "CardName": "Customer 1",
+      "DocNum": 100000066,
+      "DocDueDate": "2022-12-02T00:00:00.000Z",
+      "USERID": 1
+    },
+    {
+      "CardCode": "0001",
+      "CardName": "Customer 1",
+      "DocNum": 100000067,
+      "DocDueDate": "2022-12-02T00:00:00.000Z",
+      "USERID": 1
+    },
+    {
+      "CardCode": "0001",
+      "CardName": "Customer 1",
+      "DocNum": 100000068,
+      "DocDueDate": "2022-12-21T00:00:00.000Z",
+      "USERID": 1
+    },
+    {
+      "CardCode": "0001",
+      "CardName": "Customer 1",
+      "DocNum": 100000069,
+      "DocDueDate": "2022-12-14T00:00:00.000Z",
+      "USERID": 1
+    },   
+    {
+      "CardCode": "0006",
+      "CardName": "Customer 6",
+      "DocNum": 100000072,
+      "DocDueDate": "2022-12-02T00:00:00.000Z",
+      "USERID": 1
+    },
+    {
+      "CardCode": "0006",
+      "CardName": "Customer 6",
+      "DocNum": 300000003,
+      "DocDueDate": "2022-12-06T00:00:00.000Z",
+      "USERID": 1
+    },  
+    {
+      "CardCode": "0002",
+      "CardName": "Customer 2",
+      "DocNum": 100000083,
+      "DocDueDate": "2023-02-02T00:00:00.000Z",
+      "USERID": 1
+    },
+    {
+      "CardCode": "0002",
+      "CardName": "Customer 2",
+      "DocNum": 100000084,
+      "DocDueDate": "2023-01-10T00:00:00.000Z",
+      "USERID": 1
+    },
+    {
+      "CardCode": "0002",
+      "CardName": "Customer 2",
+      "DocNum": 100000085,
+      "DocDueDate": "2023-01-24T00:00:00.000Z",
+      "USERID": 1
+    },
+    {
+      "CardCode": "0003",
+      "CardName": "Customer 3",
+      "DocNum": 100000086,
+      "DocDueDate": "2022-12-02T00:00:00.000Z",
+      "USERID": 1
+    },
+    {
+      "CardCode": "0003",
+      "CardName": "Customer 3",
+      "DocNum": 100000087,
+      "DocDueDate": "2022-12-02T00:00:00.000Z",
+      "USERID": 1
+    },
+    {
+      "CardCode": "0003",
+      "CardName": "Customer 3",
+      "DocNum": 100000088,
+      "DocDueDate": "2022-12-02T00:00:00.000Z",
+      "USERID": 1
+    },
+    {
+      "CardCode": "0001",
+      "CardName": "Customer 1",
+      "DocNum": 100000089,
+      "DocDueDate": "2022-12-02T00:00:00.000Z",
+      "USERID": 1
+    },
+    {
+      "CardCode": "0003",
+      "CardName": "Customer 3",
+      "DocNum": 100000090,
+      "DocDueDate": "2022-12-09T00:00:00.000Z",
+      "USERID": 1
+    },
+    {
+      "CardCode": "0010",
+      "CardName": "Customer 10",
+      "DocNum": 200000003,
+      "DocDueDate": "2022-12-09T00:00:00.000Z",
+      "USERID": 1
+    }
+  ]

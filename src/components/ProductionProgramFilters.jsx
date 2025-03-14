@@ -1,9 +1,10 @@
+// Production Filters
 import React, { useState, useEffect, useCallback } from "react";
 
 const ProductionProgramFilters = ({ productionPrograms, updateFilteredPrograms }) => {
-  const [selectedLine, setSelectedLine] = useState("");
-  const [selectedDate, setSelectedDate] = useState("");
-  const [selectedDocNum, setSelectedDocNum] = useState("");
+  const [selectedLine, setSelectedLine] = useState("");       // To filter by Production Line
+  const [selectedDate, setSelectedDate] = useState("");       // To filter by Date
+  const [selectedDocNum, setSelectedDocNum] = useState("");   // To filter by DocNum
 
   const formatDate = (dateStr) => {
     if (!dateStr) return "";
@@ -30,42 +31,36 @@ const ProductionProgramFilters = ({ productionPrograms, updateFilteredPrograms }
 
   return (
     <div className="bg-gray-100 p-4 rounded-lg shadow-md mb-4">
-      <div className="flex flex-wrap gap-4 items-center">
-        
-        {/* Date Filter */}
+      <div className="flex flex-wrap gap-4 items-center">      
         <div className="flex flex-col">
-          <label className="text-sm font-medium text-gray-700">Επιλογή Ημ/νίας:</label>
+          <label className="text-sm font-medium text-gray-700">Select Date:</label>
           <input 
             type="date" 
             value={selectedDate} 
             onChange={(e) => setSelectedDate(e.target.value)}
             className="border rounded-md p-2 text-sm w-44 focus:outline-none focus:ring-2 focus:ring-blue-500"
           />
-        </div>
-
-        {/* Line Filter */}
+        </div>        
         <div className="flex flex-col">
-          <label className="text-sm font-medium text-gray-700">Γραμμή:</label>
+          <label className="text-sm font-medium text-gray-700">Production Line:</label>
           <select 
             value={selectedLine} 
             onChange={(e) => setSelectedLine(e.target.value)}
             className="border rounded-md p-2 text-sm w-44 focus:outline-none focus:ring-2 focus:ring-blue-500"
           >
-            <option value="">Επιλογή Γραμμής</option>
+            <option value="">Select Line</option>
             {uniqueLines.map((line) => (
               <option key={line} value={line}>{line}</option>
             ))}
           </select>
-        </div>
-
-        {/* Search by Production Order */}
+        </div>       
         <div className="flex flex-col">
-          <label className="text-sm font-medium text-gray-700">Αναζήτηση Εντολής Παραγωγής:</label>
+          <label className="text-sm font-medium text-gray-700">Production Order:</label>
           <input 
             type="text" 
             value={selectedDocNum} 
             onChange={(e) => setSelectedDocNum(e.target.value)}
-            placeholder="Εισάγετε Εντολή Παραγωγής"
+            placeholder="Select Production Order"
             className="border rounded-md p-2 text-sm w-56 focus:outline-none focus:ring-2 focus:ring-blue-500"
           />
         </div>
