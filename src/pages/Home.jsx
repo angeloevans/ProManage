@@ -26,7 +26,16 @@ const HomePage = () => {
           </p>
           <p className="mt-3">
             <strong>🔍 Data Filtering:</strong> The sales orders are filtered based on <code>USERID</code>, allowing admins to see all data while normal users see their assigned tasks.
+          </p>          
+          <p className="mt-3">
+            <strong>⚙️ Production Management:</strong> 
+            For users in the <strong>Production Department</strong>, the app provides real-time control over the production process. This includes the ability to <strong>start</strong>, <strong>pause</strong>, <strong>continue</strong>, and <strong>stop</strong> production tasks. 
+            These controls are available on the <strong>Production Details Page</strong>, which can be accessed from the <strong>Production Management</strong> section.
           </p>
+          <p className="mt-3">
+            <strong>📂 Demo Data:</strong> 
+            For demo purposes, all data used in this app (such as sales orders and production programs) is stored in a local <code>JSON</code> file. This allows you to simulate real-time actions and view dynamic content without needing a backend database.
+          </p>          
           <p className="mt-3">
             <strong>⚛️ React Hooks Used:</strong> 
             The app uses <code>useState</code> for managing state, <code>useEffect</code> for loading data, and <code>useCallback</code> for optimizing filters.
