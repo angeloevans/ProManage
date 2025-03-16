@@ -27,31 +27,27 @@ This **React Web App** is a role-based dashboard system that provides access to 
   - For demonstration purposes, all data is stored in a local **JSON** file, simulating the behavior of an actual backend API.
 
 Login:
- {
+
         "username"      : "admin",
         "password"      : "admin",
         "department"    : "admin",
         "USERID"        : "admin"
 
-    },
-    {
         "username"      : "sales1",
         "password"      : "sales1",
         "department"    : "sales",
         "USERID"        : 1
-    },
-    {
+
         "username"      : "sales2",
         "password"      : "sales2",
         "department"    : "sales",
         "USERID"        : 2
-    },
-    {
+
         "username"      : "production",
         "password"      : "production",
         "department"    : "production",
         "USERID"        : 3
-    }
+
 
 ## Installation
 
