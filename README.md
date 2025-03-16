@@ -53,11 +53,6 @@ Login:
         "USERID"        : 3
     }
 
-
-
-
-
-
 ## Installation
 
 To get started with this app, follow these steps:
@@ -71,7 +66,7 @@ To get started with this app, follow these steps:
 3. Install the dependencies:
   npm install
 
-Technologies Used
+Technologies Used:
 React: A JavaScript library for building user interfaces.
 React Router: For routing and navigation between pages.
 Tailwind CSS: A utility-first CSS framework for designing modern UIs.
