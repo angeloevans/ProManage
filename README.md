@@ -3,7 +3,7 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.0-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-# ProManage is a powerful React-based Role-Based Dashboard designed to manage production and sales workflows efficiently. With dynamic role-based navigation, seamless authentication, and real-time data visualization, it ensures that each department accesses only the relevant information.
+ProManage is a powerful React-based Role-Based Dashboard designed to manage production and sales workflows efficiently. With dynamic role-based navigation, seamless authentication, and real-time data visualization, it ensures that each department accesses only the relevant information.
 
 ## 🚀 Features
 
