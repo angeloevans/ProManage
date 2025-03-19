@@ -1,6 +1,6 @@
 # React Web App - Role-Based Dashboard
 
-This **React Web App** is a **role-based dashboard system** that grants access to different sections based on user roles. It dynamically manages and displays **production and sales data**, ensuring that users from different departments (**Production, Sales, Admin**) see only relevant information. The app includes **user authentication** and **role-specific navigation** for a seamless experience.
+## ProManage is a powerful React-based Role-Based Dashboard designed to manage production and sales workflows efficiently. With dynamic role-based navigation, seamless authentication, and real-time data visualization, it ensures that each department accesses only the relevant information.
 
 ## 🚀 Features
 
