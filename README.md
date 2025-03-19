@@ -1,4 +1,7 @@
 # React Web App - Role-Based Dashboard
+![React](https://img.shields.io/badge/React-18-blue.svg)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.0-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## ProManage is a powerful React-based Role-Based Dashboard designed to manage production and sales workflows efficiently. With dynamic role-based navigation, seamless authentication, and real-time data visualization, it ensures that each department accesses only the relevant information.
 
@@ -64,13 +67,16 @@ Follow these steps to set up the project locally:
 | `sales2`     | `sales2`     | `sales`        | `2`       |
 | `production` | `production` | `production`   | `3`       |
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
-- **React** – JavaScript library for building user interfaces.
-- **React Router** – Manages routing and navigation.
-- **Tailwind CSS** – Utility-first CSS framework for modern UI design.
-- **React Hooks** – (`useState`, `useEffect`, `useCallback`) for state management and performance optimization.
-- **LocalStorage** – Used for user session handling.
+| Technology       | Description |
+|-----------------|------------|
+| **React**       | Frontend framework for building UI |
+| **React Router**| Manages routing & navigation |
+| **Tailwind CSS**| Utility-first CSS framework |
+| **React Hooks** | useState, useEffect, useCallback for state management |
+| **LocalStorage**| Handles user session persistence |
+
 
 ## 📌 Demo
 
