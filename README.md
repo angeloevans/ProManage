@@ -83,6 +83,6 @@ Follow these steps to set up the project locally:
 - All data is **loaded from local JSON files** for demonstration purposes.
 - The app showcases **Production Management functionality**, allowing users to **start, pause, continue, and stop** production processes.
 
-## 📜 License
+## License 📜
 
-This project is licensed under the **MIT License**.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
